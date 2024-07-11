@@ -1,0 +1,1 @@
+This folder has all the .csvs from the mongoDB data base that my team built. I pulled down the tables and pulled them into a dataframe. MOVIE_ID is what is the tables are JOINed by.

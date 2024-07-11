@@ -22,6 +22,7 @@ Mike Stewart	   Box office Mojo  https://github.com/lamlamngo/Box-Office-Mojo-AP
 Arbaz Pathan	   Billboard Charts https://github.com/guoguo12/billboard-charts
 Mike Stewart	   Metacritic       https://github.com/ChrisMichaelPerezSantiago/metacritic  – I could not get this work
 Arthur Schenker	 RottenTomatoes   pip install rottentomatoes-python
+Lou Lagonik	     The Movie DB     https://developer.themoviedb.org/docs
 Eric Reitinger	 Oscars           https://github.com/leandcesar/theawards
                                   https://github.com/zedchance/oscars
-Lou Lagonik	     The Movie DB     https://developer.themoviedb.org/docs
+                                  

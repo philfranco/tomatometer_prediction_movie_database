@@ -16,13 +16,13 @@ If you want the .sql database file used, email me at pcfranco05@gmail.com. It is
 
 Below are the people on my team, and the APIs we used.
 
-Team Mate | Database | Link
-------------------------------------------------------------------------------
-Phil Franco	(ME) | Youtube          | https://developers.google.com/youtube/v3
-Mike Stewart	   | Box office Mojo  | https://github.com/lamlamngo/Box-Office-Mojo-API
-Arbaz Pathan	   | Billboard Charts | https://github.com/guoguo12/billboard-charts
-Mike Stewart	   | Metacritic       | https://github.com/ChrisMichaelPerezSantiago/metacritic  – I could not get this work
-Arthur Schenker	 | RottenTomatoes   | pip install rottentomatoes-python
-Eric Reitinger	 | Oscars           | https://github.com/leandcesar/theawards
-                 |                  | https://github.com/zedchance/oscars
-Lou Lagonik	     | The Movie DB     | https://developer.themoviedb.org/docs
+|     Team Mate    |     Database     |                          Link                           |
+| ---------------- | ---------------- | ------------------------------------------------------- |
+| Phil Franco	(ME) | Youtube          | https://developers.google.com/youtube/v3                |
+| Mike Stewart	   | Box office Mojo  | https://github.com/lamlamngo/Box-Office-Mojo-API        |
+| Arbaz Pathan	   | Billboard Charts | https://github.com/guoguo12/billboard-charts            |
+| Mike Stewart	   | Metacritic       | https://github.com/ChrisMichaelPerezSantiago/metacritic |
+| Arthur Schenker	 | RottenTomatoes   | pip install rottentomatoes-python                       |
+| Eric Reitinger	 | Oscars           | https://github.com/leandcesar/theawards                 |
+|                  |                  | https://github.com/zedchance/oscars                     |
+| Lou Lagonik	     | The Movie DB     | https://developer.themoviedb.org/docs                   |
